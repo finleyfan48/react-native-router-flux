@@ -1,4 +1,4 @@
-import * as ActionConst from './ActionConst';
+import ActionConst from './ActionConst';
 import Router from './Router';
 import Reducer from './Reducer';
 import Scene from './Scene';
